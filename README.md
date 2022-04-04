@@ -1,4 +1,4 @@
-# Générateur aléatoire de citation
+# Générateur aléatoire de citations
 
 ## Demo
 
